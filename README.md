@@ -1,4 +1,4 @@
 # kpicctv
 KPI CCTV player
 
-Technologies: Python 2.7, Tkinter, vlclib
+Python 2.7 + Tkinter + vlclib
